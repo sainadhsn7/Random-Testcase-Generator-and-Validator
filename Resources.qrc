@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>files/rinputf.txt</file>
+        <file>files/routputf1.txt</file>
+        <file>files/routputf2.txt</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
